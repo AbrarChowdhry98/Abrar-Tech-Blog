@@ -7,7 +7,7 @@ I have built a CMS-style blog site similar to a Wordpress site, where developers
 https://github.com/AbrarChowdhry98/Abrar-Tech-Blog
 
 ## Heroku Link
-
+https://abrar-tech-blog.herokuapp.com
 
 ## User Story
 AS A developer who writes about tech
